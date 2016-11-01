@@ -11,7 +11,7 @@ layout: Doc
 
 # Hello World Node.js Example
 
-Make sure `serverless` is installed. [See installation guide](../../../guide/installation.md).
+Make sure `serverless` is installed. [See installation guide](https://serverless.com/framework/docs/providers/aws/guide/installation/).
 
 ## 1. Deploy
 
